@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/imronreviady" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@imronreviady-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/imronreviady" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/imron.reviady" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-0077B5?style=flat-square&logo=Facebook&logoColor=white"></a>
+    <a href="https://facebook.com/imron.reviady" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-0077B5?style=flat-square&logo=Facebook&logoColor=white"></a>
     <a href="https://instagram.com/imronrevi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/10434686/imron-reviady" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
     <a href="https://twitter.com/imronrevi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
