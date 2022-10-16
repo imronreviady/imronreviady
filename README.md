@@ -21,7 +21,7 @@
 
 <p align="center">
     <a href="https://github.com/imronreviady?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/imronreviady" target="_blank"><img alt="imronreviady" src="https://badges.pufler.dev/visits/imronreviady/imronreviady?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!--<a href="https://github.com/imronreviady" target="_blank"><img alt="imronreviady" src="https://badges.pufler.dev/visits/imronreviady/imronreviady?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<a href="https://github.com/imronreviady" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/imronreviady/imronreviady?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/imronreviady/imronreviady" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/imronreviady/imronreviady?label=profile%20updated&style=flat-square"></a>
 </p>
