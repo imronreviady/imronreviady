@@ -1,7 +1,8 @@
 <p align="center">
-    <a href="https://app.daily.dev/imronreviady"><img src="https://api.daily.dev/devcards/v2/vSMBbQ82Un2LldImVjKzu.png?r=kw0&type=default" width="356" alt="Imron Reviady's Dev Card"/></a>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imronreviady&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imronreviady&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <a href="https://app.daily.dev/imronreviady"><img src="https://api.daily.dev/devcards/v2/vSMBbQ82Un2LldImVjKzu.png?type=wide&r=92n" width="652" alt="Imron Reviady's Dev Card"/></a>
+    <img align="top" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imronreviady&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=pie">
+    <br>
+    <img align="bottom" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imronreviady&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 
 <p align="center">
