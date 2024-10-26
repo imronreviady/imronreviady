@@ -1,4 +1,12 @@
-[![IMADY](https://res.cloudinary.com/imronreviadyreactblog/image/upload/v1623861322/Imron_Reviady.png)](https://github.com/imronreviady?tab=repositories)
+<p align="center">
+    <a href="https://app.daily.dev/imronreviady"><img src="https://api.daily.dev/devcards/v2/vSMBbQ82Un2LldImVjKzu.png?r=kw0&type=default" width="356" alt="Imron Reviady's Dev Card"/></a>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imronreviady&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imronreviady&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+</p>
+
+<p align="center">
+    <img alt="Tropy" src="https://github-profile-trophy.vercel.app/?username=imronreviady&theme=onedark">
+</p>
 
 <p align="center">
     <a href="https://github.com/imronreviady" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@imronreviady-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
@@ -26,18 +34,6 @@
     <a href="https://github.com/imronreviady/imronreviady" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/imronreviady/imronreviady?label=profile%20updated&style=flat-square"></a>
 </p>
 
-<p align="center">
-    <img alt="Tropy" src="https://github-profile-trophy.vercel.app/?username=imronreviady&theme=onedark">
-</p>
-
-<details>
-<summary align="center">GITHUB STAT</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imronreviady&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imronreviady&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
 <!--
 **imronreviady/imronreviady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
