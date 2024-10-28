@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img alt="Tropy" src="https://github-profile-trophy.vercel.app/?username=imronreviady&theme=onedark">
+    <img alt="Tropy" src="https://github-profile-trophy.vercel.app/?username=imronreviady&theme=light">
 </p>
 
 <p align="center">
