@@ -1,12 +1,16 @@
 <p align="center">
     <a href="https://app.daily.dev/imronreviady"><img src="https://api.daily.dev/devcards/v2/vSMBbQ82Un2LldImVjKzu.png?type=wide&r=92n" width="652" alt="Imron Reviady's Dev Card"/></a>
-    <img align="top" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imronreviady&hide=html,&hide_border=true&title_color=5391FE&text_color=555&layout=pie">
-    <br>
-    <img align="bottom" alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=imronreviady&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img align="top" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imronreviady&langs_count=6&theme=gruvbox&layout=compact&hide_border=true">
 </p>
 
 <p align="center">
-    <img alt="Tropy" src="https://github-profile-trophy.vercel.app/?username=imronreviady&theme=light">
+      <img width="47%" src="https://github-readme-stats.vercel.app/api?username=imronreviady&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=imronreviady&theme=gruvbox&hide_border=true" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imronreviady&theme=gruvbox" alt="snake">
+</p>
+
+<p align="center">
+    <img alt="Tropy" src="https://github-profile-trophy.vercel.app/?username=imronreviady&theme=gruvbox">
 </p>
 
 <p align="center">
