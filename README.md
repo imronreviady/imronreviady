@@ -15,7 +15,7 @@
             <a href="https://twitter.com/imronrevi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"></a>
             <br>
             <a href="https://github.com/imronreviady?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white">
+            <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white">
     <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white">
     <img alt="nodejs" src="https://img.shields.io/badge/-Nodejs-3c873a?style=flat-square&logo=Node.js&logoColor=white">
     <img alt="react" src="https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=React&logoColor=white">
