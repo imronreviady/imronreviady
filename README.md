@@ -5,7 +5,7 @@
             <div align="left">
         </td>
         <td width="50%" valign="top">
-            <img align="top" alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imronreviady&langs_count=6&theme=gruvbox&layout=compact&hide_border=true">
+            <img align="top" alt = "Top Language" src="https://github-stats-extended.vercel.app/api/top-langs/?username=imronreviady&langs_count=6&theme=gruvbox&layout=compact&hide_border=true">
             <br>
             <a href="https://github.com/imronreviady" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@imronreviady-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
             <a href="https://www.linkedin.com/in/imronreviady" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -26,13 +26,13 @@
 </table>
 
 <p align="center">
-      <img width="47%" src="https://github-readme-stats.vercel.app/api?username=imronreviady&show_icons=true&theme=gruvbox&hide_border=true" />
-      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=imronreviady&theme=gruvbox&hide_border=true" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imronreviady&theme=gruvbox" alt="snake">
+      <img width="47%" src="https://github-stats-extended.vercel.app/api?username=imronreviady&show_icons=true&theme=gruvbox&hide_border=true" />
+      <img width="50%" src="https://streak-stats.demolab.com/?user=imronreviady&theme=gruvbox&hide_border=true" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imronreviady&theme=gruvbox" alt="snake">
 </p>
 
 <p align="center">
-    <img alt="Tropy" src="https://github-profile-trophy.vercel.app/?username=imronreviady&theme=gruvbox">
+    <img alt="Tropy" src="https://github-profile-trophy-unserori.vercel.app/?username=imronreviady&theme=gruvbox">
 </p>
 
 <!--
